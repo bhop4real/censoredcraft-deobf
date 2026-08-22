@@ -13,7 +13,7 @@ project. The Gradle wrapper is included, so no local Gradle install is needed.
 > describes it as containing pornographic content. This repository is for
 > source study and preservation only.
 
-[Deobfuscation meme 1](deobf-1.jpg) [Deobfuscation meme 2](deobf-2.png)
+![Deobfuscation meme 1](deobf-1.jpg) ![Deobfuscation meme 2](deobf-2.png)
 
 Every single-letter field, every duplicate erased signature, every
 `Vec3d.field_186680_a` — this is the mood.
