@@ -14,7 +14,6 @@ project. The Gradle wrapper is included, so no local Gradle install is needed.
 > source study and preservation only.
 
 <img width="258" height="246" alt="deobf-1" src="https://github.com/user-attachments/assets/9b454d1f-0be6-493b-abbb-622e9e41ab53" />
-<img width="356" height="359" alt="deobf-2" src="https://github.com/user-attachments/assets/a332f2ed-a6b6-4507-9781-0e54730f08b7" />
 
 ## Layout
 
