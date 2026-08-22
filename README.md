@@ -1,4 +1,4 @@
-# Censoredcraft
+# [Censored]craft
 
 Self-contained snapshot of the recovered source for [Censored]craft,
 a Minecraft 1.12.2 Forge mod by Trolmastercard
@@ -8,8 +8,8 @@ archive is the output of a deobfuscation and recovery effort: the class tree
 was decompiled, semantically renamed where possible, and wired up as a Gradle
 project. The Gradle wrapper is included, so no local Gradle install is needed.
 
-> **Adult content notice.** This is an 18+ mod. The original game ships an
-> age-gate dialog at launch (`AgeWarningLauncher`), and the mod's own metadata
+> **Adult content notice.** This is an 18+ mod. The original mod ships an
+> age-gate dialog at launch, and the mod's own metadata
 > describes it as containing pornographic content. This repository is for
 > source study and preservation only.
 
